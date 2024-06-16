@@ -1,0 +1,46 @@
+.container{
+margin:20px 10px 10px 10px;
+   
+}
+.addbtn{
+margin-top:10px;
+margin-bottom:10px;
+
+   display:flex;
+   justify-content: end;
+margin-right:10px;
+}
+.tablelist{
+    margin-top:10px;
+    display:flex;
+    justify-content: center;
+  
+}
+.tablelist Table{
+    margin:5px;
+width:90%;
+
+}
+
+.tablelist Table thead th{
+    font-size: larger;
+    font-weight: bold;
+    padding:2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.tablelist Table tbody td{
+    font-size: large;
+    padding:2px;
+    text-transform: lowercase;
+    text-align: center;
+}
+.icons{
+    padding:2px;
+ cursor:pointer;
+}
+.iconsgroup{
+    display:flex;
+    justify-content: center;
+}
+
